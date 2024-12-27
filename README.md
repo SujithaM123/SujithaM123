@@ -53,6 +53,3 @@
 - **CodeChef**: Max Rating: 1405  
 - **CodeForce**: Max Rating: 888  
 
-## Contact 📬
-
-Feel free to reach out to me via email at **sujitham.cse2022@citchennai.net** or connect with me on [LinkedIn](https://www.linkedin.com/in/sujitha-m-982001b0/).
